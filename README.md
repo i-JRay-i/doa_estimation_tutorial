@@ -1,7 +1,7 @@
 # Direction-of-Arrival Estimation with Python
 The direction-of-arrival (DoA) estimation problem is a very prevalent problem in the signal processing literature in which the aim is to detect targets of interest and their arrival angle.
 
-This series of notebooks intends to introduce the reader to useful resources in the DoA estimation literature and provide practical implementations of many common and not-so-common DoA estimation algorithms.
+This series of notebooks intends to introduce the reader to the DoA estimation topic with explanation of many concepts and terms, provide practical implementations of many common and not-so-common DoA estimation algorithms, and direct the readers to useful resources in the DoA estimation literature.
 
 Each notebook contains a significant amount of reading to reinforce the topic and the concepts discussed in them, and at the end of each notebook there is a reference section that includes the resources and studies used in preparation.
 
@@ -11,6 +11,8 @@ Notebook 2 - Bartlett (Delay-and-sum) and Capon Beamforming in Multi-Target Scen
 
 Notebook 3 - Subspace Estimation and MUSIC in Multi-Target Scenario: [Open in Colab](https://colab.research.google.com/github/i-JRay-i/doa_estimation_tutorial/blob/master/doa_02_music.ipynb)
 
-Notebook 4 - ESPRIT and Gridless Estimation: [Open in Colab](https://colab.research.google.com/github.com/i-JRay-i/doa_estimation_tutorial/blob/master/doa_03_esprit.ipynb)
+Notebook 4 - ESPRIT and Gridless Estimation (WIP): [Open in Colab](https://colab.research.google.com/github.com/i-JRay-i/doa_estimation_tutorial/blob/master/doa_03_esprit.ipynb)
 
-Notebook 5 - Number of Target Estimation with AIC and MDL: [Open in Colab](https://colab.research.google.com/github.com/i-JRay-i/doa_estimation_tutorial/blob/master/doa_04_target_estimation.ipynb)
+Notebook 5 - Number of Target Estimation with AIC and MDL (WIP): [Open in Colab](https://colab.research.google.com/github.com/i-JRay-i/doa_estimation_tutorial/blob/master/doa_04_target_estimation.ipynb)
+
+Notebook 6 - Cramer-Rao Lower Bound (CRLB): Its Meaning, Implications and Calculation (WIP) [Open in Colab](https://colab.research.google.com/github.com/i-JRay-i/doa_estimation_tutorial/blob/master/doa_05_crb.ipynb)
