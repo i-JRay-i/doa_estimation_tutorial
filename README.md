@@ -16,3 +16,15 @@ Notebook 4 - ESPRIT and Gridless Estimation (WIP): [Open in Colab](https://colab
 Notebook 5 - Number of Target Estimation with AIC and MDL (WIP): [Open in Colab](https://colab.research.google.com/github.com/i-JRay-i/doa_estimation_tutorial/blob/master/doa_04_target_estimation.ipynb)
 
 Notebook 6 - Cramer-Rao Lower Bound (CRLB): Its Meaning, Implications and Calculation (WIP) [Open in Colab](https://colab.research.google.com/github.com/i-JRay-i/doa_estimation_tutorial/blob/master/doa_05_crb.ipynb)
+
+Notebook 7 - Root-MUSIC and Spatial Smoothing (WIP): [Open in Colab](https://colab.research.google.com/github.com/i-JRay-i/doa_estimation_tutorial/blob/master/doa_06_root_music.ipynb)
+
+Notebook 8 - Unitary ESPRIT and Forward-Backward Averaging (WIP): [Open in Colab](https://colab.research.google.com/github.com/i-JRay-i/doa_estimation_tutorial/blob/master/doa_07_unitary_esprit.ipynb)
+
+Notebook 9 - Introduction to Statistical methods: Maximum Likelihood Estimation
+
+Notebook 10 - Compressive Sensing in DoA Estimation: L1-SVD
+
+Notebook 11 - Sparse Bayesian Estimation
+
+Notebook 12 - Off-Grid Target with CS-solvers: OGSBE
